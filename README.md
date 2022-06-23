@@ -37,3 +37,4 @@ Objective is to create a real time stock market dashboard.
   1. Scale up the project by adding functionalities like
       1. Develop a sequence model(Deep Learning model) to achive the same task and check its performance.
       2. Natural Language Inference from current stock news by web scrapping the news data and then applying LSTM's and other state of the art techniques.
+     
